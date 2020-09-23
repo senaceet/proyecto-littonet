@@ -6,7 +6,7 @@
 ## Objetivo General
 Desarrollar un sistema de información para mejorar y promocionar el servicio que ofrece la litografía Impresos Rabel, ubicada en el barrio La Estrada, en la ciudad de Bogotá.
 ## Objetivos específicos
-+ Definir, dentro de los servicios de la litografía Rabel, el diseño de tarjetas de invitación como referencia para el desarrollo del sistema de información. 
++ Definir, dentro de los servicios de la litografía Impresos Rabel, el diseño de tarjetas de invitación como referencia para el desarrollo del sistema de información. 
 + Definir los requerimientos y la estructura del sistema de información.
 + Planificar el cronograma para el cumplimiento de actividades que conduzcan al desarrollo del sistema de información.
 + Manejar el desarrollo del sistema de información por medio de un repositorio, que incluya información sobre la presentación y el contenido del mismo.
