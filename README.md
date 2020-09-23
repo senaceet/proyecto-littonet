@@ -4,7 +4,7 @@
 
 # :art: LittoNet :computer:
 ## Objetivo General
-Desarrollar un sistema de información, para mejorar y promocionar el servicio que ofrece la litografía Impresos Rabel, ubicada en el barrio La Estrada, en la ciudad de Bogotá.
+Desarrollar un sistema de información para mejorar y promocionar el servicio que ofrece la litografía Impresos Rabel, ubicada en el barrio La Estrada, en la ciudad de Bogotá.
 ## Objetivos específicos
 + Definir, dentro de los servicios de la litografía Rabel, el diseño de tarjetas de invitación como referencia para el desarrollo del sistema de información. 
 + Definir los requerimientos y la estructura del sistema de información.
