@@ -10,7 +10,6 @@ Desarrollar un sistema de información para mejorar y promocionar el servicio qu
 + Definir los requerimientos y la estructura del sistema de información.
 + Planificar el cronograma para el cumplimiento de actividades que conduzcan al desarrollo del sistema de información.
 + Manejar el desarrollo del sistema de información por medio de un repositorio, que incluya información sobre la presentación y el contenido del mismo.
-+ Distribuir las tareas a través del repositorio en ramas para cada integrante, según los requerimientos del proyecto.
 + Diseñar un algoritmo que permita al cliente personalizar tarjetas de invitación.
 + Gestionar la interfaz y las opciones de diseño para la venta online y la distribución de las tarjetas personalizadas.
 + Gestionar usuarios mediante una base de datos y formularios de registro.
