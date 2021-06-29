@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src="https://github.com/senaceet/proyecto-littonet/blob/master/Otros/LN-removebg-preview.png">
+  <img src="https://github.com/senaceet/proyecto-littonet/blob/master/Otros/ln.png">
 </div>
 
 # :art: LittoNet :computer:
