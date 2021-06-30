@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2020-07-01" view-index="1" gantt-divider-location="446" resource-divider-location="334" version="2.8.11" locale="es">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2020-07-01" view-index="0" gantt-divider-location="446" resource-divider-location="334" version="2.8.11" locale="es">
     <description/>
     <view zooming-state="default:9" id="gantt-chart">
-        <field id="tpd3" name="Nombre" width="210" order="0"/>
-        <field id="tpd4" name="Fecha de inicio" width="109" order="1"/>
-        <field id="tpd5" name="Fecha de fin" width="108" order="2"/>
+        <field id="tpd3" name="Nombre" width="215" order="0"/>
+        <field id="tpd4" name="Fecha de inicio" width="114" order="1"/>
+        <field id="tpd5" name="Fecha de fin" width="113" order="2"/>
         <option id="color.recent"><![CDATA[#009999 #666600 #ff00cc #0033cc #33ffff #66ff33 #ffff66 #ff3333 #666666 #660066]]></option>
     </view>
     <view id="resource-table">
@@ -34,7 +34,7 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" name="FASE 1 PLANEACIÓN" color="#8cb6ce" meeting="false" start="2020-09-07" duration="27" complete="0" thirdDate="2021-02-01" thirdDate-constraint="0" expand="true">
+        <task id="0" name="FASE 1 PLANEACIÓN" color="#8cb6ce" meeting="false" start="2020-09-07" duration="27" complete="0" thirdDate="2021-02-01" thirdDate-constraint="0" expand="false">
             <task id="5" name="Componente Metodologico." color="#ff3333" meeting="false" start="2020-09-07" duration="4" complete="0" thirdDate="2021-02-01" thirdDate-constraint="0" expand="true">
                 <task id="13" name="Definición del nombre del proyecto." color="#ff3333" meeting="false" start="2020-09-07" duration="4" complete="0" thirdDate="2021-02-01" thirdDate-constraint="0" expand="true"/>
                 <task id="14" name="Ttítulo." color="#ff3333" meeting="false" start="2020-09-07" duration="4" complete="0" thirdDate="2021-02-01" thirdDate-constraint="0" expand="true"/>
@@ -64,7 +64,7 @@
                 <task id="151" name="Llenado del Formato de Casos de Uso Extendido" color="#0033ff" meeting="false" start="2020-10-12" duration="2" complete="0" thirdDate="2021-02-01" thirdDate-constraint="0" expand="true"/>
             </task>
         </task>
-        <task id="77" name="FASE 2 ANALISIS" color="#660066" meeting="false" start="2020-11-05" duration="84" complete="0" thirdDate="2021-02-01" thirdDate-constraint="0" expand="true">
+        <task id="77" name="FASE 2 ANALISIS" color="#660066" meeting="false" start="2020-11-05" duration="84" complete="0" thirdDate="2021-02-01" thirdDate-constraint="0" expand="false">
             <task id="166" name="Modelo Conceptual de la BD" color="#8cb6ce" meeting="false" start="2020-11-05" duration="5" complete="0" thirdDate="2020-08-03" thirdDate-constraint="0" expand="true"/>
             <task id="88" name="Modelo Entidad Relacion" color="#ff3333" meeting="false" start="2020-11-11" duration="7" complete="0" thirdDate="2020-11-11" thirdDate-constraint="0" expand="true">
                 <task id="89" name="Identificación de las entidades" color="#ff3333" meeting="false" start="2020-11-11" duration="2" complete="0" thirdDate="2021-02-01" thirdDate-constraint="0" expand="true"/>
